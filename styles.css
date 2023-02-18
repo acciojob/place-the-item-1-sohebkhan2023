@@ -1,2 +1,15 @@
-
-/* Your CSS Code here. */
+.container{
+	width:300px;
+	height:200px;
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-around;
+}
+.one 
+{
+	height:50px;
+	width:50px;
+	background-color:red;
+	margin:2px
+}
